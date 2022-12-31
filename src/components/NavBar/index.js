@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-import { Navbar, NavbarBrand, Nav, NavItem, Collapse, Container, Button } from "reactstrap";
+import { Navbar, NavbarBrand, Nav, NavItem, Collapse} from "reactstrap";
 import logo from "../../assets/images/logo1.gif"
 import { FiMenu } from 'react-icons/fi';
 import {
@@ -94,7 +94,6 @@ const NavBar = () => {
                   </Link>
                 </NavItem>
               </Nav>
-              {/* <button className="btn-primary text-white py-2 px-4 mt-4 mt-lg-0">Get Started</button> */}
             </div>
           </Collapse>
         </div>

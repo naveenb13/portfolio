@@ -46,25 +46,4 @@ const Banner = () => {
     );
 }
 
-export default Banner
-
-
-{/* <div className='me-2'>
-                        <img src={Image1} className='img-fluid d-block' alt="person1" />
-                        <img src={Image2} className='img-fluid mt-4' alt="person2" />
-                    </div>
-                    <div>
-                        <img src={Image3} className='img-fluid d-block' alt="person3" />
-                        <img src={Image4} className='img-fluid mt-4' alt="person4" />
-                    </div> */}
-
-                    {
-                      /* <div className='mt-5 text-center'>
-                <p className='text-uppercase text-secondary'>TRUSTED BY startups and large enterprises</p>
-                <img src={Brand1} alt="luminous" className='img-fluid' />
-                <img src={Brand2} alt="site" className='img-fluid' />
-                <img src={Brand3} alt="pronature" className='img-fluid' />
-                <img src={Brand4} alt="greenish" className='img-fluid' />
-                <img src={Brand5} alt="waveless" className='img-fluid' />
-            </div> */
-                    }
+export default Banner   

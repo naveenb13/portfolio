@@ -91,35 +91,3 @@ const Skills = () => {
 }
 
 export default Skills
-
-
-{/* <Row>
-                <Col lg="6" md="6" sm="6">
-                  <div className="bg-service p-3">
-                    <h3 className="text-white ff-bold d-flex justify-content-center align-items-center mb-0">HTML</h3>
-                  </div>
-                  <div className="bg-service mt-4 p-3">
-                    <h3 className="text-white ff-bold mt-2 mb-4">98%</h3>
-                    <p className="text-secondary">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Suspendisse varius enim.
-                    </p>
-                  </div>
-                </Col>
-                <Col lg="6" md="6" sm="6">
-                  <div className="bg-service p-3 mt-4 mt-sm-0">
-                    <h3 className="text-white ff-bold mt-2 mb-4">3.4B</h3>
-                    <p className="text-secondary">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Suspendisse varius enim.
-                    </p>
-                  </div>
-                  <div className="bg-service mt-4 p-3">
-                    <h3 className="text-white ff-bold mt-2 mb-4">10+</h3>
-                    <p className="text-secondary">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Suspendisse varius enim.
-                    </p>
-                  </div>
-                </Col>
-              </Row> */}
